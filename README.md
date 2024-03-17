@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm **PaloPil**, I'm French 🇫🇷 and I like to code!
+
+I don't know what to write here, but I'm working on it!
+
+You can learn more on [my website](https://palopil.fr)!
+
 <!--
 **PaloPil/PaloPil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
