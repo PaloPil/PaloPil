@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm **PaloPil**, I'm French 🇫🇷 and I like to code!
+I'm **PaloPil**, I'm French 🇫🇷 and I like to code some stuff for fun or to help me to do some tasks!
 
-I don't know what to write here, but I'm working on it!
+#### I don't know what to write here, but I'm working on it!
 
-You can learn more on [my website](https://palopil.fr)!
+*You can learn more on [my website](https://palopil.fr)!*
 
 <!--
 **PaloPil/PaloPil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
